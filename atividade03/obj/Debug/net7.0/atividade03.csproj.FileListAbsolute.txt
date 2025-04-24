@@ -1,0 +1,14 @@
+C:\Users\Igor55009746\Documents\anjinho\atividade03\bin\Debug\net7.0\atividade03.exe
+C:\Users\Igor55009746\Documents\anjinho\atividade03\bin\Debug\net7.0\atividade03.deps.json
+C:\Users\Igor55009746\Documents\anjinho\atividade03\bin\Debug\net7.0\atividade03.runtimeconfig.json
+C:\Users\Igor55009746\Documents\anjinho\atividade03\bin\Debug\net7.0\atividade03.dll
+C:\Users\Igor55009746\Documents\anjinho\atividade03\bin\Debug\net7.0\atividade03.pdb
+C:\Users\Igor55009746\Documents\anjinho\atividade03\obj\Debug\net7.0\atividade03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor55009746\Documents\anjinho\atividade03\obj\Debug\net7.0\atividade03.AssemblyInfoInputs.cache
+C:\Users\Igor55009746\Documents\anjinho\atividade03\obj\Debug\net7.0\atividade03.AssemblyInfo.cs
+C:\Users\Igor55009746\Documents\anjinho\atividade03\obj\Debug\net7.0\atividade03.csproj.CoreCompileInputs.cache
+C:\Users\Igor55009746\Documents\anjinho\atividade03\obj\Debug\net7.0\atividade03.dll
+C:\Users\Igor55009746\Documents\anjinho\atividade03\obj\Debug\net7.0\refint\atividade03.dll
+C:\Users\Igor55009746\Documents\anjinho\atividade03\obj\Debug\net7.0\atividade03.pdb
+C:\Users\Igor55009746\Documents\anjinho\atividade03\obj\Debug\net7.0\atividade03.genruntimeconfig.cache
+C:\Users\Igor55009746\Documents\anjinho\atividade03\obj\Debug\net7.0\ref\atividade03.dll
