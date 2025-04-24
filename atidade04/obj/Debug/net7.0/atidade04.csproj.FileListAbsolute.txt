@@ -1,0 +1,14 @@
+C:\Users\Igor55009746\Documents\anjinho\atidade04\obj\Debug\net7.0\atidade04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor55009746\Documents\anjinho\atidade04\obj\Debug\net7.0\atidade04.AssemblyInfoInputs.cache
+C:\Users\Igor55009746\Documents\anjinho\atidade04\obj\Debug\net7.0\atidade04.AssemblyInfo.cs
+C:\Users\Igor55009746\Documents\anjinho\atidade04\obj\Debug\net7.0\atidade04.csproj.CoreCompileInputs.cache
+C:\Users\Igor55009746\Documents\anjinho\atidade04\bin\Debug\net7.0\atidade04.exe
+C:\Users\Igor55009746\Documents\anjinho\atidade04\bin\Debug\net7.0\atidade04.deps.json
+C:\Users\Igor55009746\Documents\anjinho\atidade04\bin\Debug\net7.0\atidade04.runtimeconfig.json
+C:\Users\Igor55009746\Documents\anjinho\atidade04\bin\Debug\net7.0\atidade04.dll
+C:\Users\Igor55009746\Documents\anjinho\atidade04\bin\Debug\net7.0\atidade04.pdb
+C:\Users\Igor55009746\Documents\anjinho\atidade04\obj\Debug\net7.0\atidade04.dll
+C:\Users\Igor55009746\Documents\anjinho\atidade04\obj\Debug\net7.0\refint\atidade04.dll
+C:\Users\Igor55009746\Documents\anjinho\atidade04\obj\Debug\net7.0\atidade04.pdb
+C:\Users\Igor55009746\Documents\anjinho\atidade04\obj\Debug\net7.0\atidade04.genruntimeconfig.cache
+C:\Users\Igor55009746\Documents\anjinho\atidade04\obj\Debug\net7.0\ref\atidade04.dll
